@@ -7,6 +7,8 @@
 ## Tecnologías y herramientas que domino
 
 - **Lenguajes de programación:** HTML5, CSS3, JavaScript (ES6+).
+- ![download](https://github.com/Retford/Retford/assets/107021284/67067925-c2e7-404e-9825-15d4cb678915)
+
 - **Frameworks y librerías:** React.js, NextJS, TailwindCSS.
 - **Preprocesadores:** Sass, Less.
 - **Gestión de dependencias:** npm, yarn.
