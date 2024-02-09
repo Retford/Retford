@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Retford/Retford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenido a mi perfil de GitHub
 
-Here are some ideas to get you started:
+¡Hola! Soy Retford, un apasionado programador frontend con experiencia en la creación de interfaces de usuario atractivas y funcionales. Estoy comprometido con la excelencia técnica y la mejora continua, siempre buscando aprender nuevas tecnologías y herramientas para mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y herramientas que domino
+
+- **Lenguajes de programación:** HTML5, CSS3, JavaScript (ES6+).
+- **Frameworks y librerías:** React.js, NextJS, TailwindCSS.
+- **Preprocesadores:** Sass, Less.
+- **Gestión de dependencias:** npm, yarn.
+- **Control de versiones:** Git, GitHub.
+- **Herramientas de desarrollo:** Visual Studio Code, Chrome DevTools.
+
+## Contacto
+
+¡Estoy abierto a colaboraciones, oportunidades laborales y discusiones sobre desarrollo frontend! Puedes encontrarme en:
+
+- [LinkedIn]([enlace](https://www.linkedin.com/in/retford-o-briam-julcarima-balde%C3%B3n/))
+- [Correo electrónico](retfordjb@gmail.com)
+
+¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. No dudes en contactarme si tienes alguna pregunta o sugerencia.
