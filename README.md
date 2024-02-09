@@ -17,7 +17,7 @@
 
 ¡Estoy abierto a colaboraciones, oportunidades laborales y discusiones sobre desarrollo frontend! Puedes encontrarme en:
 
-- [LinkedIn]([enlace](https://www.linkedin.com/in/retford-o-briam-julcarima-balde%C3%B3n/))
+- [LinkedIn](https://www.linkedin.com/in/retford-o-briam-julcarima-balde%C3%B3n/)
 - [Correo electrónico](retfordjb@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. No dudes en contactarme si tienes alguna pregunta o sugerencia.
